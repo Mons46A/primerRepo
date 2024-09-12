@@ -2,3 +2,4 @@ futbol
 basquetbol
 atletismo
 Natación
+tenia
