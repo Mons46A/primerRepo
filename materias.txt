@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 matematicas
 español
 historia
 
+=======
+1.- Matemáticas
+2.- Ciencias naturales
+3.- Historia
+>>>>>>> 4f3ee328aa01bc7868c9877aaa5530dfb932917a
